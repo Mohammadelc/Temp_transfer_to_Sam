@@ -1,0 +1,3 @@
+# Downloaded model checkpoints (large binary artifacts)
+checkpoints/
+*.nemo
